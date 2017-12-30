@@ -24,7 +24,7 @@ This is a small python script which uses VLC to ingest a Twitch stream, and rest
 
 ## Configuration 
 ###### config.json
-```json
+```javascript
 {
     // Twitch API `client_id` (get from https://dev.twitch.tv/dashboard/apps)
     "twitch_api_client_id": "",
